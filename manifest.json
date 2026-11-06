@@ -1,0 +1,11 @@
+{
+  "display_name": "FAIFAH Affection Bar",
+  "loading_order": 50,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "faifah",
+  "version": "1.1.0",
+  "homePage": ""
+}
